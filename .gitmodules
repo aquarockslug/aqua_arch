@@ -7,3 +7,6 @@
 [submodule "aqua_nvim"]
 	path = aqua_nvim
 	url = git@github.com:aquarockslug/aqua_nvim.git
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/dracula/zsh.git
