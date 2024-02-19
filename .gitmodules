@@ -4,6 +4,3 @@
 [submodule "aqua_keymap"]
 	path = aqua_keymap
 	url = git@github.com:aquarockslug/aqua_keymap.git
-[submodule "aqua_nvim"]
-	path = aqua_nvim
-	url = git@github.com:aquarockslug/aqua_nvim.git
