@@ -1,7 +1,7 @@
+#buku
 #kabmat
 #nap
 bat
-buku
 chafa
 cmus
 duf
@@ -20,6 +20,7 @@ pnpm
 python
 qmk
 tldr
+tmux
 unzip
 vim
 wget
