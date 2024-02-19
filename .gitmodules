@@ -1,0 +1,6 @@
+[submodule "aqua_profile"]
+	path = aqua_profile
+	url = git@github.com:aquarockslug/aqua_profile.git
+[submodule "aqua_keymap"]
+	path = aqua_keymap
+	url = git@github.com:aquarockslug/aqua_keymap.git
