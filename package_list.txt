@@ -26,5 +26,6 @@ wget
 xclip
 yay
 yt-dlp
+zsh
 zsh-autosuggestions
 zsh-syntax-highlighting
