@@ -10,6 +10,7 @@ firefox
 glow
 go
 htop
+kabmat
 lazygit
 make
 nodejs
