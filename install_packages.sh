@@ -5,4 +5,3 @@ sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/ins
 ln -s $AQUA_ARCH/dracula/zsh/dracula.zsh-theme ~/.oh-my-zsh/themes/dracula.zsh-theme 
 ln -s $AQUA_ARCH/aqua_nvim ~/.config/nvim
 mv zshrc ~/.zshrc
-go install github.com/maaslalani/nap@main
