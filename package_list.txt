@@ -13,13 +13,14 @@ kabmat
 lazygit
 make
 nap-bin
+neovim
 nodejs
 python
 qmk
 tldr
 tmux
 unzip
-neovim
+vim-plug
 wget
 xclip
 yay
