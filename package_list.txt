@@ -15,6 +15,7 @@ make
 nap-bin
 neovim
 nodejs
+pudb
 python
 qmk
 tldr
