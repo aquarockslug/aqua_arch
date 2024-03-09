@@ -8,6 +8,7 @@ felix-rs
 fzf
 glow
 go
+gum
 htop
 kabmat
 lazygit
