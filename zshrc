@@ -19,3 +19,7 @@ esac
 # pnpm end
 
 source $ZSH/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)
