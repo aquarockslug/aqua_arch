@@ -25,7 +25,6 @@ tmux
 unzip
 vim-plug
 wget
-xclip
 yay
 yt-dlp
 zsh
