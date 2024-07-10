@@ -5,7 +5,9 @@ plugins=(
 	zsh-interactive-cd
 	zsh-autosuggestions
 	zsh-syntax-highlighting
-	web-search
+	copypath
+	web-search # ddg
+	cp # cpv
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -19,3 +21,6 @@ esac
 # pnpm end
 
 source $ZSH/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)
