@@ -23,6 +23,7 @@ nodejs 22.4.1-1
 openssh 9.8p1-1
 prettier 3.3.2-1
 ripgrep 14.1.0-1
+rsync 3.3.0-2
 sudo 1.9.15.p5-1
 tldr 3.3.0-1
 tmux 3.4-8
@@ -37,3 +38,5 @@ yay-git 12.3.5.r17.g5149e371-1
 yay-git-debug 12.3.5.r17.g5149e371-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.0-2
+zsh-completions 0.35.0-1
+zsh-syntax-highlighting 0.8.0-1
