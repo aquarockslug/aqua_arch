@@ -3,8 +3,6 @@ export ZSH="$HOME/.oh-my-zsh"
 plugins=(
 	aqua_profile
 	zsh-interactive-cd
-	zsh-autosuggestions
-	zsh-syntax-highlighting
 	copypath
 	web-search # ddg
 	cp # cpv
@@ -20,7 +18,5 @@ case ":$PATH:" in
 esac
 # pnpm end
 
-source $ZSH/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-# Load Angular CLI autocompletion.
 source <(ng completion script)
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
