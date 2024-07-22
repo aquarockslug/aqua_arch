@@ -10,6 +10,6 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/dracula/zsh.git
-[submodule "aqua_qtile"]
-	path = aqua_qtile
-	url = git@github.com:aquarockslug/aqua_qtile.git
+; [submodule "aqua_qtile"]
+; 	path = aqua_qtile
+; 	url = git@github.com:aquarockslug/aqua_qtile.git
