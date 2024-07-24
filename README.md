@@ -1,6 +1,6 @@
 # aqua_arch
 My personal Arch Linux configuration 
-![neofetch](pictures/2024-06-12_23-11.png "neofetch")
+![2024-07-23_21-23](https://github.com/user-attachments/assets/7ca925c7-6d4d-446f-b1fd-82cd506bb615)
 
 ## Neovim Screenshots
 ![2024-07-23_21-13](https://github.com/user-attachments/assets/5a822744-9224-4639-bf31-bc484fcae283)
