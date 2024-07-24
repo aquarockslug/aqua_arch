@@ -1,6 +1,6 @@
 # aqua_arch
 My personal Arch Linux configuration 
-![2024-07-23_21-23](https://github.com/user-attachments/assets/7ca925c7-6d4d-446f-b1fd-82cd506bb615)
+![2024-07-23_21-23](https://github.com/user-attachments/assets/ff3e0233-10d1-4d84-ae8a-e2f2ea5a7b22)
 
 ## Neovim Screenshots
 ![2024-07-23_21-13](https://github.com/user-attachments/assets/5a822744-9224-4639-bf31-bc484fcae283)
